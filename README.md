@@ -6,10 +6,10 @@
 - Traffic Light Control System (VHDL)
 - Tic-Tac-Toe Discord bot (Node.JS)
 
-- 🌱 I’m currently learning React, Angular and C++ and I am proficent in Python, Javascript, NodeJS, HTML, CSS and VHDL
+🌱 I’m currently learning React, Angular and C++ and I am proficent in Python, Javascript, NodeJS, HTML, CSS and VHDL
 
 
-- 📫 You can reach me at malnassi@ualberta.ca | or via Linkedin https://www.linkedin.com/in/mohamed-al-nassirat-6893b9203/
+📫 You can reach me at malnassi@ualberta.ca | or via Linkedin https://www.linkedin.com/in/mohamed-al-nassirat-6893b9203/
 
 <!---
 MohamedAl-Nassirat/MohamedAl-Nassirat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
