@@ -6,8 +6,8 @@
 - Tic-Tac-Toe Discord bot (Node.JS)
 
 🔭 Work-In-Progress projects: 
-   - Covid Cases in your area
-   - ISS Tracking API
+   - Chat bot (React and Firebase)
+   - ISS Tracking API (Python)
 
 🌱 I’m currently learning React, Angular, ARM and C++ and I am proficent in Python, Javascript, NodeJS, HTML, CSS and VHDL
 
