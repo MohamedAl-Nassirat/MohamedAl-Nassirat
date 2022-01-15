@@ -2,7 +2,7 @@
 
    
 🔭 Past projects: 
-- Recipe Search API (HTML, CSS, Javascript) 
+- Recipe Searcher (React, CSS, API Fetch) 
 - Tic-Tac-Toe Discord bot (Node.JS)
 
 🔭 Work-In-Progress projects: 
