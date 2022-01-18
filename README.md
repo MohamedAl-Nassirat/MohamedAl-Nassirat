@@ -9,7 +9,7 @@
    - Chat bot (React and Firebase)
    - ISS Tracking API (Python)
 
-🌱 I’m currently learning React, Angular, ARM and C++ and I am proficent in Python, Javascript, NodeJS, HTML, CSS and VHDL
+🌱 I’m currently learning Angular, ARM and C++ and I am proficent in Python, Javascript, React, NodeJS, HTML, CSS and VHDL
 
 
 📫 You can reach me at malnassi@ualberta.ca | or via Linkedin https://www.linkedin.com/in/mohamed-al-nassirat-6893b9203/
