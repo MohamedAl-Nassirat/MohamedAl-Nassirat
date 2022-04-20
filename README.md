@@ -5,6 +5,7 @@ I am contionously learning and actively engaing myself in a variety of new topic
 🔭 Clubs and Activities:
    - University of Alberta Ariel Robotics Group - Working apart of the Imaging team to develop a Convolutional Neural Network for Marker Data Prediction in preperations for the official Association for SUAS 2022 American Competition. 
  
+Feel free to check out some of projects below!
 
 📫 You can reach me at malnassi@ualberta.ca | or via Linkedin https://www.linkedin.com/in/mohamed-al-nassirat-6893b9203/
 
