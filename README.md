@@ -1,4 +1,5 @@
--👋 Hello, my name is Mohamed Al-Nassirat and I am an aspiring Software Engineer currently attending University of Alberta. My interests lie in Machine Learning and Artifical Intelligence, Algorithms and Datastructures, and have worked previously on front end development projects. 
+
+👋 Hello, my name is Mohamed Al-Nassirat and I am an aspiring Software Engineer currently attending University of Alberta. My interests lie in Machine Learning and Artifical Intelligence, Algorithms and Datastructures, and have worked previously on front end development projects. 
 
 I am contionously learning and actively engaing myself in a variety of new topics around CS fundamentals but primarily focusing on Machine Learning
 
