@@ -1,10 +1,14 @@
 
-👋 Hello, my name is Mohamed Al-Nassirat and I am an aspiring Software Engineer currently attending University of Alberta. My interests lie in Machine Learning and Artifical Intelligence, Algorithms and Datastructures, and have worked previously on front end development projects. 
+👋 Hello, my name is Mohamed Al-Nassirat and I am an aspiring Software Engineer currently attending University of Alberta. My interests lie in Machine Learning and Artifical Intelligence, Algorithms and Datastructures, and Web Development projects.
 
-I am contionously learning and actively engaing myself in a variety of new topics around CS fundamentals but primarily focusing on Machine Learning
+I am contionously learning and actively engaing myself in a variety of new topics around CS fundamentals but primarily focusing on enhancing my skills as a Software Engineer. 
 
-🔭 Clubs and Activities:
-   - University of Alberta Ariel Robotics Group - Working apart of the Imaging team to develop a Convolutional Neural Network for Marker Data Prediction in preperations for the official Association for SUAS 2022 American Competition. 
+🔭 Work Experience:
+   - Full Stack Software Engineer - Delphi Technology:
+      Developed custom plugins for X-Plane 11 Flight Simulator using Python, C and C++
+      while using tools such as Imgui and OpenGL to replicate real life training scenarios
+      done by a commerical flight simulator.
+      
  
 Feel free to check out some of projects below!
 
